@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+h1{
+    color:white;
+}
+
+h2 {
+    color:grey
+    
+}
+
+#list1 {
+    color:green;
+}
+
+#list2 {
+    color:red;
+}
+
+#list1head {
+    color:green;
+}
+
+#list2head {
+    color:red;
+}
+
+#button {
+
+    color: black;
+
+    border:green solid 5px;
+    border-radius: 10px;
+
+    padding-top: 7px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 7px;
+
+    margin-left: 1700px;
+    margin-right: 0px;
+}
+
+#image1 {
+    border: brown solid 20px;
+}
+
+img {
+    border: white solid 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+#googleText {
+    color: lavender;
+    padding-bottom: 25px;
+    padding-top: 250;
+
+
+}
+
+#searchbar {
+    border:gray solid 7px;
+    border-radius: 20px;
+    margin-bottom: 10;
+}
+
+.id1 {
+    margin-left: 800px;
+   
+}
+
+
+.searchButton {
+    border:rgb(114, 114, 114) solid 7px;
+    background-color: rgb(114, 114, 114);
+    border-radius: 20px;
+}
+
+#grey {
+    background-color: rgb(37, 37, 37);
+}
